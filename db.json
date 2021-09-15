@@ -1,0 +1,46 @@
+{
+  "expenses": [
+    {
+      "date": "2021-03-03",
+      "category": "test",
+      "description": "test",
+      "amount": "45.99",
+      "id": 4
+    },
+    {
+      "date": "2021-09-17",
+      "category": "asd",
+      "description": "asd",
+      "amount": "12",
+      "id": 5
+    },
+    {
+      "date": "2021-10-06",
+      "category": "asd",
+      "description": "asd",
+      "amount": "12",
+      "id": 6
+    },
+    {
+      "date": "2021-10-06",
+      "category": "asd",
+      "description": "asd",
+      "amount": "12",
+      "id": 7
+    },
+    {
+      "date": "2021-09-24",
+      "category": "sdf",
+      "description": "sdfds",
+      "amount": "12",
+      "id": 8
+    },
+    {
+      "date": "2021-09-18",
+      "category": "qwe",
+      "description": "qwe",
+      "amount": "12",
+      "id": 9
+    }
+  ]
+}
